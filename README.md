@@ -1,6 +1,6 @@
 
 
-Hi, there're Horiz and Raincrow(雨鸦).  
+Hi, there're Horiz and Raincrow（雨鸦）.  
 
 It's a pleasure, just take a look.
 
