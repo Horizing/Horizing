@@ -1,6 +1,7 @@
 
 
 Hi, there're Horiz and Raincrow（雨鸦）.  
+The account is for studying, my note and blog here.
 
 It's a pleasure, just take a look.
 
