@@ -1,6 +1,6 @@
 
 
-Hi, there're Horiz and Raincrows
+Hi, there're Horiz and Raincrows.
 It's a pleasure, just take a look.
 
 
