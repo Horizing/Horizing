@@ -1,9 +1,9 @@
 
 
-Hi, there're Horiz and Voluntie.  
-The account is for studying, notes and blogs here.
+Hi, We are Horiz and Voluntie.  
+The account is for studying, notes and blogs.
 
-It's a pleasure, just take a look.
+It's our pleasure, just take a look.
 
 
 <!---
