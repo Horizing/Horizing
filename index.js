@@ -16,6 +16,10 @@ function generateProgressBar() {
 const readme = `\
 ### Hi there 👋
 
+<img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" >  
+<br/><br/><br/>
+Credit is productivity.
+
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
 ---
