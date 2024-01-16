@@ -18,7 +18,8 @@ const readme = `\
 
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" >  
 <br/><br/><br/>
-🤝Credit is productivity.
+🤝Credit is productivity.  
+
 🛡️Guarding the bottom line of everything.
 <br/><br/><br/><br/><br/><br/><br/>
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
