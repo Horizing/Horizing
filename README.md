@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/edited.png">
+<img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/edited.png" height="225" width="auto" >
 Hi, We are Horiz and Voluntie.  
 The account is for studying, notes and blogs.
 
