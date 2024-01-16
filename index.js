@@ -14,11 +14,13 @@ function generateProgressBar() {
 }
 
 const readme = `\
-### Hi there 👋
+### Learning for The Courage
 
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" >  
 <br/><br/><br/>
 Credit is productivity.
+<br/><br/><br/>
+---
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
@@ -26,7 +28,7 @@ Credit is productivity.
 
 ⏰ Updated on ${new Date().toUTCString()}
 
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
+![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
 `
 
 console.log(readme)
