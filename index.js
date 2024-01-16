@@ -19,7 +19,7 @@ const readme = `\
 Credit is productivity.
 
 <!---
-Raincrow9/Raincrow9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Raincrow9/Raincrow9 is a ✨ special ✨ repository because its md file of README (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
