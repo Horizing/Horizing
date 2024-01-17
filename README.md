@@ -8,10 +8,10 @@
 🌎Even if only malicious voices remain, don't ignore kind people.<br/>
 🛡️Guarding the bottom line of everything.<br/>
 🍃Anger is easy, but same to forget.
-<br/><br/>
+<br/>
 
 ---
-### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 4.47 %
+### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 4.48 %
 ⏰ Updated on Wed, 17 Jan 2024 08:50:47 GMT
 
 ---
