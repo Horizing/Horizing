@@ -14,7 +14,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
-### ⚗️ Learning for The Courage
+### ⚗️ Learning is for The Courage With Other People.
 
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" >  
 <br/><br/><br/>
