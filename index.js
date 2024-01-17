@@ -35,7 +35,7 @@ const readme = `\
 
 ---
 
-📚Books written by me
-\`
+📚Books written by me\
+`
 
 console.log(readme)
