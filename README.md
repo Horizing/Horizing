@@ -5,7 +5,7 @@
 🤝Credit is productivity.<br/>
 🎭Don't try to understand things like culture, just feel it.<br/>
 ❤️The things you chain yourself to are the things that set you free.<br/>
-🌎Don't ignore kind people, Even if only malicious voices remain.<br/>
+🌎Even if only malicious voices remain, don't ignore kind people.<br/>
 🛡️Guarding the bottom line of everything.<br/>
 🍃Anger is easy, but same to forget.
 <br/><br/><br/>
@@ -13,6 +13,6 @@
 
 ---
 
-⏰ Updated on Wed, 17 Jan 2024 07:37:39 GMT
+⏰ Updated on Wed, 17 Jan 2024 07:43:33 GMT
 
 ![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
