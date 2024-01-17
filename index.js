@@ -20,7 +20,7 @@ const readme = `\
 <br/><br/><br/>
 🤝Credit is productivity.<br/>
 🎭Don't try to understand things like culture, just feel it.<br/>
-👻Life and education need entertainment and humor.<br/>
+👻Life and education need humor and entertainment too.<br/>
 ❤️The things you chain yourself to, are the things that set you free.<br/>
 🌎Even if only malicious voices remain, don't ignore kind people.<br/>
 🛡️Guarding the bottom line of everything.<br/>
