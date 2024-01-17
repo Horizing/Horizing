@@ -20,8 +20,14 @@ const readme = `\
 <br/><br/><br/>
 🤝Credit is productivity.  
 
-🛡️Guarding the bottom line of everything.
-<br/><br/><br/><br/><br/><br/><br/>
+❤️The things you chain yourself to are the things that set you free.
+
+🛡️Guarding the bottom line of everything.  
+
+🎭Culture is indescribable.  
+
+🍃Anger is easy, but same to forget.
+<br/><br/><br/><br/>
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
 ---
