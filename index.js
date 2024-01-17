@@ -19,7 +19,7 @@ const readme = `\
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" >  
 <br/><br/><br/>
 🤝Credit is productivity.<br/>
-🎭Don't try to understand things like culture, just feel it.<br/>
+🎭Don't be too rational to enjoy things like art in culture, just feel it.<br/>
 👻Life and education need humor and entertainment too.<br/>
 ❤️The things you chain yourself to, are the things that set you free.<br/>
 🌎Even if only malicious voices remain, don't ignore kind people.<br/>
