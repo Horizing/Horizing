@@ -31,7 +31,11 @@ const readme = `\
 
 ⏰ Updated on ${new Date().toUTCString()}
 
-![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
-`
+![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+
+---
+
+📚Books written by me
+\`
 
 console.log(readme)
