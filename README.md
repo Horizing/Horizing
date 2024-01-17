@@ -13,10 +13,9 @@
 
 ---
 
-⏰ Updated on Wed, 17 Jan 2024 08:47:22 GMT
-
-![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+⏰ Updated on Wed, 17 Jan 2024 08:49:36 GMT
 
 ---
 
 📚Books written by me
+![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
