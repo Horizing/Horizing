@@ -29,7 +29,7 @@ const readme = `\
 
 ---
 ### ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
-⏰ Updated on Wed, 17 Jan 2024 08:50:47 GMT
+⏰ Updated on ${new Date().toUTCString()}
 
 ---
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🍀[Linktree](https://linktr.ee/)
