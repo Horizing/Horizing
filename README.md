@@ -1,5 +1,5 @@
 ## ⚗️ Learning is for The Courage With Other People.
-
+### 🌱 Hi, Lost lambs 😈<br/>
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" >  
 <br/><br/><br/>
 🤝Credit is productivity.<br/>
