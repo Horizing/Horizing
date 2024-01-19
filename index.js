@@ -14,7 +14,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
-# ⚗️ Learning is for The Courage With Others.
+# ⚗️ Learning is for The *[Courage](https://steamcommunity.com/profiles/76561198179920187)* With Others.
 ### 🌱 Hi, Lost lambs 😈<br/><br/>👁️The Self of us will one day be strong enough to influence others.<br/>Can We Control That?👿
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" >  
 <br/><br/><br/>
