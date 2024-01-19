@@ -1,5 +1,5 @@
 ## ⚗️ Learning is for The Courage With Other People.
-### 🌱 Hi, Lost lambs 😈<br/>
+### 🌱 Hi, Lost lambs 😈<br/><br/>The Self of you will one day be strong enough to influence others.<br/>Can You Control That?
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" >  
 <br/><br/><br/>
 🤝Credit is productivity.<br/>
@@ -12,8 +12,8 @@
 <br/><br/>
 
 ---
-### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.06 %
-⏰ Updated on Fri, 19 Jan 2024 12:27:24 GMT
+### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.12 %
+⏰ Updated on Fri, 19 Jan 2024 17:46:08 GMT
 
 ---
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🍀[Linktree](https://linktr.ee/)
