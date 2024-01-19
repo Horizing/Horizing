@@ -15,7 +15,7 @@ function generateProgressBar() {
 
 const readme = `\
 ## ⚗️ Learning is for The Courage With Other People.
-### 🌱 Hi, Lost lambs 😈<br/>
+### 🌱 Hi, Lost lambs 😈<br/><br/>The Self of you will one day be strong enough to influence others.<br/>Can You Control That?
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" >  
 <br/><br/><br/>
 🤝Credit is productivity.<br/>
