@@ -8,11 +8,13 @@
 ❤️The things you chain yourself to, are the things that set you free.  
 🌎Even if only malicious voices remain, don't ignore kind people.  
 🕯️Time flies so fast, we will meet again.  
-<br/><br/>
+
+“Life will offer you a diminishing number of opportunities to show how smart you are.”  
+“It will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”
 
 ---
-### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.30 %
-⏰ Updated on Sat, 20 Jan 2024 09:36:49 GMT
+### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.31 %
+⏰ Updated on Sat, 20 Jan 2024 10:03:03 GMT
 
 ---
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🍀[Linktree](https://linktr.ee/)
