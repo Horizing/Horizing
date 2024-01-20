@@ -9,7 +9,7 @@
 🌎Even if only malicious voices remain, don't ignore kind people.  
 🕯️Time flies so fast, we will meet again.  
 <br/><br/>
-“Life will offer you a diminishing number of opportunities to show how smart you are.”  
+“Life will offer you a diminishing number of opportunities to show how smart you are, but—”  
 “It will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”
 
 ---
