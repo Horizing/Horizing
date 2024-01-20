@@ -1,8 +1,8 @@
-# ⚗️ Learning is for The *[Courage](XXX)* With Others.
+# ⚗️ Learning is for The *[Courage](https://steamcommunity.com/profiles/76561198179920187)* With Others.
 ### 🌱 Hi, Lost lambs 😈<br/><br/>👁️The Self of us will one day be strong enough to influence others.<br/>Can We Control That?👿
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/><br/><br/>
 🤝Credit is productivity.  
-🎭Don't be too rational to enjoy things like art in [culture](https://steamcommunity.com/profiles/76561198179920187), just feel it. —***[My view of 魔法使いの夜](XX)***   
+🎭Don't be too rational to enjoy things like art in [culture](https://steamcommunity.com/profiles/76561198179920187), just feel it. —***[My view of 魔法使いの夜](https://steamcommunity.com/profiles/76561198179920187)***   
 👻Life and education need humor and entertainment too.  
 💬Infer by essence and information gap to face the confusion and anxiety.  
 ❤️The things you chain yourself to, are the things that set you free.  
@@ -13,8 +13,8 @@
 ***“But it will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”***
 
 ---
-### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.36 %
-⏰ Updated on Sat, 20 Jan 2024 15:12:22 GMT
+### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.40 %
+⏰ Updated on Sat, 20 Jan 2024 18:16:52 GMT
 
 ---
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
