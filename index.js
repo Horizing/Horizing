@@ -43,7 +43,7 @@ const readme = `\
 🔥Let's do something for our lovely worlds, again and again.
 </details>
 
-## “Something Need and Deserve a Lifetime to Practice”<br>“有些事需要并值得终生实践”
+## Something Need and Deserve a Lifetime to Practice<br>有些事需要并值得终生实践
 ![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
 `
 
