@@ -1,8 +1,8 @@
-# ⚗️ Learning is for The *[Courage](https://steamcommunity.com/profiles/76561198179920187)* With Others.
+# ⚗️ Learning is for The *[Courage](XXX)* With Others.
 ### 🌱 Hi, Lost lambs 😈<br/><br/>👁️The Self of us will one day be strong enough to influence others.<br/>Can We Control That?👿
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/><br/><br/>
 🤝Credit is productivity.  
-🎭Don't be too rational to enjoy things like art in [culture](https://steamcommunity.com/profiles/76561198179920187), just feel it. —***[My view of 魔法使いの夜](https://steamcommunity.com/profiles/76561198179920187)***   
+🎭Don't be too rational to enjoy things like art in [culture](https://steamcommunity.com/profiles/76561198179920187), just feel it. —***[My view of 魔法使いの夜](XX)***   
 👻Life and education need humor and entertainment too.  
 💬Infer by essence and information gap to face the confusion and anxiety.  
 ❤️The things you chain yourself to, are the things that set you free.  
