@@ -12,8 +12,8 @@
 <br/><br/>
 
 ---
-### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.26 %
-⏰ Updated on Sat, 20 Jan 2024 06:17:40 GMT
+### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.27 %
+⏰ Updated on Sat, 20 Jan 2024 06:55:41 GMT
 
 ---
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🍀[Linktree](https://linktr.ee/)
@@ -22,4 +22,5 @@
 🍃Anger is easy, but same to forget.<br/>
 🛡️Guarding the bottom line of everything.<br/>
 🔥Let's do something for our lovely worlds, again and again.<br/><br/>
+## “Something Need and Deserve a Lifetime to Practice”<br>“有些事需要并值得终生实践”<br/>
 ![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
