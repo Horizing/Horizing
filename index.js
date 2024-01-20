@@ -25,8 +25,8 @@ const readme = `\
 🌎Even if only malicious voices remain, don't ignore kind people.  
 🕯️Time flies so fast, we will meet again.  
 
-“Life will offer you a diminishing number of opportunities to show how smart you are.”  
-“Life will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”
+“Life will offer you a diminishing number of opportunities to show how smart you are, but — ” 
+“But it will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”
 
 ---
 ### ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
