@@ -13,15 +13,15 @@
 ***“But it will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”***
 
 ---
-### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.32 %
-⏰ Updated on Sat, 20 Jan 2024 11:03:00 GMT
+### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.33 %
+⏰ Updated on Sat, 20 Jan 2024 12:25:20 GMT
 
 ---
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
 # 💡 *I Hope These Will Help You.* 🍀
 ### 📚Small Books written by me<br/><br/>
 <details>
-  <summary>Other little Thoughts</summary>
+  <summary>Other Little Thoughts</summary>
 🍃Anger is easy, but same to forget.<br/>
 🛡️Guarding the bottom line of everything.<br/>
 🔥Let's do something for our lovely worlds, again and again.
