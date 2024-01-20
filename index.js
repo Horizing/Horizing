@@ -16,15 +16,14 @@ function generateProgressBar() {
 const readme = `\
 # ⚗️ Learning is for The *[Courage](https://steamcommunity.com/profiles/76561198179920187)* With Others.
 ### 🌱 Hi, Lost lambs 😈<br/><br/>👁️The Self of us will one day be strong enough to influence others.<br/>Can We Control That?👿
-<img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" >  
-<br/><br/><br/>
-🤝Credit is productivity.<br/>
-🎭Don't be too rational to enjoy things like art in culture, just feel it.<br/>
-👻Life and education need humor and entertainment too.<br/>
-💬Infer by essence and information gap to face the confusion and anxiety.<br/>
-❤️The things you chain yourself to, are the things that set you free.<br/>
-🌎Even if only malicious voices remain, don't ignore kind people.<br/>
-🕯️Time flies so fast, we will meet again.
+<img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/><br/><br/>
+🤝Credit is productivity.  
+🎭Don't be too rational to enjoy things like art in [culture](https://steamcommunity.com/profiles/76561198179920187), just feel it.  
+👻Life and education need humor and entertainment too.  
+💬Infer by essence and information gap to face the confusion and anxiety.  
+❤️The things you chain yourself to, are the things that set you free.  
+🌎Even if only malicious voices remain, don't ignore kind people.  
+🕯️Time flies so fast, we will meet again.  
 <br/><br/>
 
 ---
