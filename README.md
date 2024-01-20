@@ -21,7 +21,7 @@
 # 💡 *I Hope These Will Help You.* 🍀
 ### 📚Small Books written by me<br/><br/>
 <details>
-  <summary>A little Thoughts</summary>
+  <summary>Other little Thoughts</summary>
 🍃Anger is easy, but same to forget.<br/>
 🛡️Guarding the bottom line of everything.<br/>
 🔥Let's do something for our lovely worlds, again and again.
