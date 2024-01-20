@@ -37,8 +37,8 @@ const readme = `\
 ### 📚Small Books written by me<br/><br/>
 🍃Anger is easy, but same to forget.<br/>
 🛡️Guarding the bottom line of everything.<br/>
-🔥Let's do something for our lovely worlds, again and again.<br/><br/>
-## “Something Need and Deserve a Lifetime to Practice”<br>“有些事需要并值得终生实践”<br/>
+🔥Let's do something for our lovely worlds, again and again.
+## “Something Need and Deserve a Lifetime to Practice”<br>“有些事需要并值得终生实践”
 ![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
 `
 
