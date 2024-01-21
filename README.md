@@ -4,17 +4,16 @@
 ***Take the Courage, Initiative and Awareness to Assume [Responsibility](AAAA).*** **[society](AAAA), [family](AAAA), [etc](AAAA).**   
 🤝Credit is productivity.🤔Creativity is positive status-quo negation?—***[My Newest Work List](AAAA)***  
 🎭Don't be too rational to enjoy things like art in [culture](AAAA), just feel it.—***[My view of 魔法使いの夜](AAAA)***   
-💞Why and How to make an intimate to others. 为什么以及如何与他人建立亲密联系 
 👻Life and education need humor and entertainment too.—***[Why is humor important and bulids it](AAAA)***  
 💬Infer by essence and information gap to face the confusion and anxiety.  
 ❤️The things you chain yourself to, are the things that set you free.  
-🌎Even if only malicious voices remain, don't ignore kind people.   
+🌎Even if only malicious voices remain, don't ignore kind people.  
 🕯️Time flies so fast, we will meet again.  
-<br/>
+<br/><br/>
 ***“Life will offer you a diminishing number of opportunities to show how smart you are, ”***  
 ***“But it will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”***  
 
-🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
+## 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
 ---
 ### 📚Small Books written by me 施工中WIP
 [烹饪](AAAA) [二手市场](AAAA) [！政治](AAAA)   
@@ -48,7 +47,7 @@ Others
 
 ---
 ### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.67 %
-⏰ ***Your Time is Mine***, Updated on Sun, 21 Jan 2024 18:08:11 GMT
+⏰ ***Your Time is Mine***, Updated on Sun, 21 Jan 2024 18:17:21 GMT
 
 ---
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
