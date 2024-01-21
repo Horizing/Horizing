@@ -5,10 +5,10 @@
 🤝Credit is productivity.🤔Creativity is positive status-quo negation?—***[My Newest Work List](AAAA)***  
 🎭Don't be too rational to enjoy things like art in [culture](AAAA), just feel it.—***[My view of 魔法使いの夜](AAAA)***   
 👻Life and education need humor and entertainment too.—***[Why is humor important and bulids it](AAAA)***  
-💬Infer by essence and information gap to face the confusion and anxiety.  
+💬Infer by essence and information gap to face the confusion and anxiety.—No perfect  
 ❤️The things you chain yourself to, are the things that set you free.  
-🌎Even if only malicious voices remain, don't ignore kind people.   
-🕯️Time flies so fast, we will meet again.  
+🌎Even if only malicious voices remain, don't ignore kind people.—***[How me keep kinds](AAAA)***  
+🕯️Time flies so fast, we will meet again.💞Intimate to others.—***[How and Why 亲密关系那些事](AAAA)***  
 <br/><br/>
 ***“Life will offer you a diminishing number of opportunities to show how smart you are, ”***  
 ***“But it will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”***  
@@ -16,6 +16,7 @@
 ## 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
 ---
 ### 📚Small Books written by me 施工中WIP
+Pinned 
 [烹饪](AAAA) [二手市场](AAAA) [！政治](AAAA)   
 Tech (sort by considered)  
 
