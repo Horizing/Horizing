@@ -30,7 +30,8 @@ const readme = `\
 
 ---
 ### 📚Small Books written by me 施工中WIP
-
+—**[技术管理与选择](AAAA)**   
+—**[为什么东亚人的理想、反抗乃至强烈民族主义大多变为内耗自我与本族人](AAAA)**   
 <details>
   <summary>Other Little Thoughts</summary>
 🍃Anger is easy, but same to forget.<br/>
