@@ -16,7 +16,7 @@
 ### 📚Small Books written by me 施工中WIP
 [分类](AAAA) [分类](AAAA) [分类](AAAA)  
 Pinned  
-—**[为什么东亚人的理想、反抗乃至强烈民族主义大多变为内耗自我或本族人](AAAA)**   
+—**[为什么理想、反抗乃至强烈民族主义大多变为内耗自我或本族人](AAAA)**   
 —**[技术管理与选择](AAAA)**   
 <details>
   <summary>Other Little Thoughts</summary>
@@ -27,7 +27,7 @@ Pinned
 
 ---
 ### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.61 %
-⏰ ***Your Time is Mine***, Updated on Sun, 21 Jan 2024 12:41:48 GMT
+⏰ ***Your Time is Mine***, Updated on Sun, 21 Jan 2024 12:45:25 GMT
 
 ---
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
