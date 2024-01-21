@@ -15,9 +15,9 @@
 ---
 ### 📚Small Books written by me 施工中WIP
 [分类](AAAA) [分类](AAAA) [分类](AAAA)  
-Pinned  
-—**[为什么理想、反抗乃至强烈民族主义大多变为内耗自我或本族人](AAAA)**   
-—**[技术管理与选择](AAAA)**   
+Pinned(Sort by importance)  
+—**[技术管理体系](AAAA)** 相当于拥有的资本   
+—**[技术选择](AAAA)** 投入，产出   
 <details>
   <summary>Other Little Thoughts</summary>
 🍃Anger is easy, but same to forget.<br/>
@@ -27,7 +27,7 @@ Pinned
 
 ---
 ### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.61 %
-⏰ ***Your Time is Mine***, Updated on Sun, 21 Jan 2024 12:45:25 GMT
+⏰ ***Your Time is Mine***, Updated on Sun, 21 Jan 2024 13:08:40 GMT
 
 ---
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
