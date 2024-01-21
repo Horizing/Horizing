@@ -31,8 +31,9 @@ const readme = `\
 ---
 ### 📚Small Books written by me 施工中WIP
 [分类](AAAA) [分类](AAAA) [分类](AAAA)  
-Pinned  
-—**[技术管理与选择](AAAA)**   
+Pinned(Sort by importance)  
+—**[技术管理体系](AAAA)** 相当于拥有的资本   
+—**[技术选择](AAAA)** 投入，产出   
 <details>
   <summary>Other Little Thoughts</summary>
 🍃Anger is easy, but same to forget.<br/>
