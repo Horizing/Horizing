@@ -9,11 +9,11 @@
 ❤️The things you chain yourself to, are the things that set you free.  
 🌎Even if only malicious voices remain, don't ignore kind people.  
 🕯️Time flies so fast, we will meet again.  
-<br/>
+<br/><br/>
 ***“Life will offer you a diminishing number of opportunities to show how smart you are, ”***  
 ***“But it will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”***  
 
-🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
+## 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
 ---
 ### 📚Small Books written by me 施工中WIP
 [烹饪](AAAA) [二手市场](AAAA) [！政治](AAAA)   
@@ -21,6 +21,7 @@ Tech (sort by considered)
 
 <details>
   <summary>WIP</summary>
+  
 —**[行业气氛的主动理解调控以及新人的培养](AAAA)**  
 —**[认为他人无法欣赏所以妥协或敷衍是种"傲慢"](AAAA)**  
 —**[技术管理体系](AAAA)** 资本   
@@ -30,6 +31,7 @@ Tech (sort by considered)
 
 <details>
   <summary>WIP</summary>
+  
 Others  
 —**[不要用单一观点解释社会现象](AAAA)** 回音廊效应  
 —**[充分、必要条件与现象的解释](AAAA)**  
@@ -45,7 +47,7 @@ Others
 
 ---
 ### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.67 %
-⏰ ***Your Time is Mine***, Updated on Sun, 21 Jan 2024 17:56:42 GMT
+⏰ ***Your Time is Mine***, Updated on Sun, 21 Jan 2024 18:08:11 GMT
 
 ---
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
