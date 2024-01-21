@@ -19,10 +19,11 @@
 Tech (sort by considered)  
 —**[技术管理体系](AAAA)** 资本   
 —**[技术选择](AAAA)** 投入，产出   
-—**[过于投入技术是一种逃避](AAAA)**
+—**[过于或只投入技术是一种逃避](AAAA)**  
 Others  
 —**[不要用单一观点解释社会现象](AAAA)** 回音廊效应  
-—**[充分、必要条件与现象](AAAA)**  
+—**[充分、必要条件与现象的解释](AAAA)**  
+—**[选择与系统的上限与下限](AAAA)**  
 <details>
   <summary>Other Little Thoughts</summary>
 🍃Anger is easy, but same to forget.<br/>
@@ -32,7 +33,7 @@ Others
 
 ---
 ### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.66 %
-⏰ ***Your Time is Mine***, Updated on Sun, 21 Jan 2024 17:26:55 GMT
+⏰ ***Your Time is Mine***, Updated on Sun, 21 Jan 2024 17:29:23 GMT
 
 ---
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
