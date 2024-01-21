@@ -25,6 +25,7 @@ const readme = `\
 ❤️The things you chain yourself to, are the things that set you free.  
 🌎Even if only malicious voices remain, don't ignore kind people.  
 🕯️Time flies so fast, we will meet again.  
+*[灵感堆积区 Inspiration accumulation area](AAAA)*
 <br/><br/>
 ***“Life will offer you a diminishing number of opportunities to show how smart you are, ”***  
 ***“But it will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”***  
