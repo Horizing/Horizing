@@ -14,7 +14,6 @@
 
 ---
 ### 📚Small Books written by me 施工中WIP
-#### Pinned
 —**[为什么东亚人的理想、反抗乃至强烈民族主义大多变为内耗](AAAA)**   
 —**[观察自身，观察他人](AAAA)**   
 <details>
