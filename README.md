@@ -4,13 +4,12 @@
 ***Take the Courage, Initiative and Awareness to Assume [Responsibility](AAAA).*** **[society](AAAA), [family](AAAA), [etc](AAAA).**   
 🤝Credit is productivity.🤔Creativity is positive status-quo negation?—***[My Newest Work List](AAAA)***  
 🎭Don't be too rational to enjoy things like art in [culture](AAAA), just feel it.—***[My view of 魔法使いの夜](AAAA)***   
-💞Why and How to make an intimate to others. 为什么及如何与他人建立亲密联系 And [Motivation](AAAA)  
 👻Life and education need humor and entertainment too.—***[Why is humor important and bulids it](AAAA)***  
 💬Infer by essence and information gap to face the confusion and anxiety.  
 ❤️The things you chain yourself to, are the things that set you free.  
 🌎Even if only malicious voices remain, don't ignore kind people.   
 🕯️Time flies so fast, we will meet again.  
-<br/>
+<br/><br/>
 ***“Life will offer you a diminishing number of opportunities to show how smart you are, ”***  
 ***“But it will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”***  
 
