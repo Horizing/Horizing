@@ -9,7 +9,7 @@
 ❤️The things you chain yourself to, are the things that set you free.  
 🌎Even if only malicious voices remain, don't ignore kind people.  
 🕯️Time flies so fast, we will meet again.  
-<br/><br/>
+🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)<br/>
 ***“Life will offer you a diminishing number of opportunities to show how smart you are, ”***  
 ***“But it will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”*** 
 
@@ -36,7 +36,6 @@ Others
 ⏰ ***Your Time is Mine***, Updated on Sun, 21 Jan 2024 17:29:23 GMT
 
 ---
-🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
 
 ## Something Need and Deserve a Lifetime to Practice<br>有些事需要并值得终生实践
 ![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
