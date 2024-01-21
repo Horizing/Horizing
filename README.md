@@ -2,7 +2,7 @@
 ### 🌱 Hi, Lost lambs 😈<br/><br/>👁️The Self of us will one day be strong enough to influence others.<br/>Can Human Control That?👿
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/><br/>
 ***Take the Courage, Initiative and Awareness to Assume [Responsibility](AAAA).*** **[society](AAAA), [family](AAAA), [etc](AAAA).**   
-🤝Credit is productivity.🤔Creativity is positive status-quo negation?—**[📅My Newest Work TimeLine](AAAA)**  
+🤝Credit is productivity.🤔Creativity is positive status-quo negation?—**[📅My Work TimeLine](AAAA)**  
 🎭Don't be too rational to enjoy things like art in [culture](AAAA), just feel it.—***[My view of 魔法使いの夜](AAAA)***   
 👻Life and education need humor and entertainment too.—***[Why is humor important and bulids it](AAAA)***  
 💬Infer by essence and information gap to face the confusion and anxiety.—***[Reading Habits Myth](AAAA)***  
