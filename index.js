@@ -18,18 +18,18 @@ const readme = `\
 ### 🌱 Hi, Lost lambs 😈<br/><br/>👁️The Self of us will one day be strong enough to influence others.<br/>Can Human Control That?👿
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/><br/>
 ***Take the Courage, Initiative and Awareness to Assume [Responsibility](AAAA).*** **[society](AAAA), [family](AAAA), [etc](AAAA).**   
-🤝Credit is productivity.🤔Creativity is positive status-quo negation?—***[My Newest Work List](AAAA)***  
+🤝Credit is productivity.🤔Creativity is positive status-quo negation?—**[📅My Newest Work TimeLine](AAAA)**  
 🎭Don't be too rational to enjoy things like art in [culture](AAAA), just feel it.—***[My view of 魔法使いの夜](AAAA)***   
 👻Life and education need humor and entertainment too.—***[Why is humor important and bulids it](AAAA)***  
-💬Infer by essence and information gap to face the confusion and anxiety.  
-❤️The things you chain yourself to, are the things that set you free.  
-🌎Even if only malicious voices remain, don't ignore kind people.  
-🕯️Time flies so fast, we will meet again.  
+💬Infer by essence and information gap to face the confusion and anxiety.—***[Reading Habits Myth](AAAA)***  
+❤️The things you chain yourself to, are the things that set you free.—***[Will ask for forgiveness](AAAA)***  
+🌎Even if only malicious voices remain, don't ignore kind people.—***[How can we keep kind](AAAA)***  
+🕯️Time flies so fast, we will meet again.💞Intimate to others.—***[How and Why 亲密关系那些事](AAAA)***  
 <br/><br/>
 ***“Life will offer you a diminishing number of opportunities to show how smart you are, ”***  
 ***“But it will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”***  
 
-## 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
+🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
 ---
 ### 📚Small Books written by me 施工中WIP
 [烹饪](AAAA) [二手市场](AAAA) [！政治](AAAA)   
@@ -66,7 +66,6 @@ Others
 ⏰ ***Your Time is Mine***, Updated on ${new Date().toUTCString()}
 
 ---
-🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](https://steamcommunity.com/profiles/76561198179920187) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/)
 
 ## Something Need and Deserve a Lifetime to Practice<br>有些事需要并值得终生实践
 ![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
