@@ -33,6 +33,7 @@ const readme = `\
 ### 📚Small Books written by me 施工中WIP
 [分类](AAAA) [分类](AAAA) [分类](AAAA)   
 Tech (sort by considered)  
+—**[认为他人无法欣赏所以妥协或敷衍是种"傲慢"](AAAA)**  
 —**[技术管理体系](AAAA)** 资本   
 —**[技术选择](AAAA)** 投入，产出   
 —**[过于或只投入技术是一种逃避](AAAA)**  
