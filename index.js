@@ -33,8 +33,9 @@ const readme = `\
 ### 📚Small Books written by me 施工中WIP
 [分类](AAAA) [分类](AAAA) [分类](AAAA)   
 Tech (sort by considered)  
-—**[技术管理体系](AAAA)** 相当于拥有的资本   
+—**[技术管理体系](AAAA)** 资本   
 —**[技术选择](AAAA)** 投入，产出   
+—**[过于投入技术是一种逃避](AAAA)**
 Others  
 —**[不要用单一观点解释社会现象](AAAA)** 回音廊效应  
 —**[充分、必要条件与现象](AAAA)**  
