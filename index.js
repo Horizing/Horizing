@@ -32,14 +32,15 @@ const readme = `\
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
 ---
 ### 📚Small Books written by me 施工中WIP
-|**💠[Type-Moon @My view](AAAA)** | [魔法使いの夜](AAAA) | [空の境界](AAAA) |[烹饪](AAAA) | [二手市场](AAAA) | [！政治](AAAA)|  
+|**Reviews** **💠[Type-Moon @My view](AAAA)**, [魔法使いの夜](AAAA), [空の境界](AAAA), [境界線上のホライゾン](AAAA) and [Others](AAAA)|  
+|[烹饪](AAAA) | [二手市场](AAAA) | [！政治](AAAA)|  
 Tech (sort by considered)  
 
 <details>
   <summary>WIP</summary>
   
-—**[行业气氛的主动理解调控以及新人的培养](AAAA)**  
-—**[认为他人无法欣赏所以妥协或敷衍是种"傲慢"](AAAA)**  
+—**[行业气氛的主动理解调控以及新人的培养](AAAA)**WIP  
+—**[认为他人无法欣赏所以妥协或敷衍是种"傲慢"](AAAA)**WIP  
 —**[技术管理体系](AAAA)** 资本   
 —**[技术选择](AAAA)** 投入，产出   
 —**[过于或只投入技术是一种逃避](AAAA)**  
