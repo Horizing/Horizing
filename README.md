@@ -17,7 +17,7 @@
 ---
 ### 📚Small Books written by me 施工中WIP
 **Cognition-认知**  
-| 从「游戏」聊起的认知概念以及「遗忘」的意义 | 「遗忘」的多样性专题区 | 时间与体感的老化 | 高估与低估所处时代进程 |  
+| 从游戏聊起的认知概念以及遗忘的意义 | 遗忘的多样性 | 时间与体感的老化 | 高估与低估所处时代进程 |  
 
 **Creative Work Talk-聊聊创作**  
 | 从他人作品解读开始 |  
@@ -60,7 +60,7 @@ Others
 
 ---
 ### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.95 %
-⏰ ***Your Time is Mine***, Updated on Mon, 22 Jan 2024 18:20:36 GMT
+⏰ ***Your Time is Mine***, Updated on Mon, 22 Jan 2024 18:26:35 GMT
 
 ---
 
