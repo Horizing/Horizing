@@ -17,13 +17,13 @@
 ---
 ### 📚Small Books written by me 施工中WIP
 **Cognition-认知**  
-| 从游戏聊起的认知概念以及遗忘的意义 | 时间与体感的老化 | 高估与低估所处时代进程 |  
+| 从「游戏」聊起的认知概念以及「遗忘」的意义 | 「遗忘」的多样性专题区 | 时间与体感的老化 | 高估与低估所处时代进程 |  
 
 **Creative Work Talk-聊聊创作**  
 | 从他人作品解读开始 |  
 
 **Reviews**(In no particular order LOL)  
-| [境界線上のホライゾン](AAAA)  | 💠[Type-Moon @My view](AAAA), [魔法使いの夜](AAAA), [空の境界](AAAA) | [Others](AAAA) |  
+| [境界線上のホライゾン与娱乐的本质](AAAA)  | 💠[Type-Moon @My view](AAAA), [魔法使いの夜](AAAA), [空の境界](AAAA) | [Others](AAAA) |  
 
 **Guides**  
 | [炼药与烹饪](AAAA) | [高价优质的产品怎么找](AAAA) | [二手市场](AAAA) |  
@@ -60,7 +60,7 @@ Others
 
 ---
 ### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.95 %
-⏰ ***Your Time is Mine***, Updated on Mon, 22 Jan 2024 18:18:39 GMT
+⏰ ***Your Time is Mine***, Updated on Mon, 22 Jan 2024 18:20:36 GMT
 
 ---
 
