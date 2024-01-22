@@ -18,17 +18,24 @@
 ### 📚Small Books written by me 施工中WIP
 **Cognition-认知**  
 | 从游戏聊起的认知概念以及遗忘的意义 | 遗忘的多样性 | 时间与体感的老化 | 高估与低估所处时代进程 |  
+————| 政经哲预科知识/通识 |  
+————| 微观经济学 | 宏观经济学 | 哲学 |  
 
 **Creative Work Talk-聊聊创作**  
-| 从他人作品解读开始 |  
+| 从解读他人作品开始 |  
+| 角色塑造 | 如何尽可能代入想象笔下角色 | 需要艺术处理导致难以带入想象的角色|
 
-**Reviews**(In no particular order LOL)  
-| [境界線上のホライゾン与娱乐的本质](AAAA)  | 💠[Type-Moon @My view](AAAA), [魔法使いの夜](AAAA), [空の境界](AAAA) | [Others](AAAA) |  
+**Reviews**  
+|| [文学书评](AAAA) || [Galgame](AAAA) ||  
+| [境界線上のホライゾン](AAAA) | [其他冷门推荐](AAAA) |  
+| 💠[Type-Moon @My view](AAAA), [魔法使いの夜](AAAA), [空の境界](AAAA) |  
+| [Others](AAAA) |  
+(In no particular order LOL)  
 
 **Guides**  
 | [炼药与烹饪](AAAA) | [高价优质的产品怎么找](AAAA) | [二手市场](AAAA) |  
 
-Tech (sort by considered)  
+**Tech** (sort by considered)  
 
 <details>
   <summary>WIP</summary>
@@ -40,15 +47,15 @@ Tech (sort by considered)
 —**[过于或只投入技术是一种逃避](AAAA)**  
 </details>
 
+**Others**
+
 <details>
   <summary>WIP</summary>
-  
-Others  
+    
 —**[不要用单一观点解释社会现象](AAAA)** 回音廊效应  
 —**[充分、必要条件与现象的解释](AAAA)**  
 —**[选择与系统的上限与下限](AAAA)**  
 </details>
-
 <details>
   <summary>Other Little Thoughts</summary>
 🍃Anger is easy, but same to forget.<br/>
@@ -59,8 +66,8 @@ Others
  [！政治](AAAA)
 
 ---
-### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.95 %
-⏰ ***Your Time is Mine***, Updated on Mon, 22 Jan 2024 18:26:35 GMT
+### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.98 %
+⏰ ***Your Time is Mine***, Updated on Mon, 22 Jan 2024 21:18:36 GMT
 
 ---
 
