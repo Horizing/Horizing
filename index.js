@@ -32,11 +32,14 @@ const readme = `\
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
 ---
 ### 📚Small Books written by me 施工中WIP
+**Creative Work Talk-聊聊创作**  
+| 从解读开始 |  
+
 **Reviews**(In no particular order LOL)  
 | [境界線上のホライゾン](AAAA)  | 💠[Type-Moon @My view](AAAA), [魔法使いの夜](AAAA), [空の境界](AAAA) | [Others](AAAA) |  
 
 **Cognition-认知**  
-| 从游戏聊起的概念 | 时间与体感的老化 | 高估与低估所处时代进程 |
+| 从游戏聊起的认知概念 | 时间与体感的老化 | 高估与低估所处时代进程 |
 
 **Guides**  
 | [炼药与烹饪](AAAA) | [高价优质的产品怎么找](AAAA) | [二手市场](AAAA) |  
