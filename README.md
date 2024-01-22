@@ -16,7 +16,7 @@
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
 ---
 ### 📚Small Books written by me 施工中WIP
-|**Reviews** **💠[Type-Moon @My view](AAAA)**, [魔法使いの夜](AAAA), [空の境界](AAAA), [境界線上のホライゾン](AAAA) and [Others](AAAA)|  
+|**Reviews** **💠[Type-Moon @My view](AAAA)**, [境界線上のホライゾン](AAAA), [魔法使いの夜](AAAA), [空の境界](AAAA), and [Others](AAAA)|  
 |[烹饪](AAAA) | [二手市场](AAAA) | [！政治](AAAA)|  
 Tech (sort by considered)  
 
@@ -48,7 +48,7 @@ Others
 
 ---
 ### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.84 %
-⏰ ***Your Time is Mine***, Updated on Mon, 22 Jan 2024 08:57:20 GMT
+⏰ ***Your Time is Mine***, Updated on Mon, 22 Jan 2024 08:59:47 GMT
 
 ---
 
