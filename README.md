@@ -19,8 +19,11 @@
 **Reviews**(In no particular order LOL)  
 | [境界線上のホライゾン](AAAA)  | 💠[Type-Moon @My view](AAAA), [魔法使いの夜](AAAA), [空の境界](AAAA) | [Others](AAAA) |  
 
+**Cognition-认知**  
+| 从游戏聊起的概念有点怪 | 时间与体感的老化 | 高估与低估所处时代进程 |
+
 **Guides**  
-| [烹饪](AAAA) | [二手市场](AAAA) |  
+| [炼药与烹饪](AAAA) | [高价优质的产品怎么找](AAAA) | [二手市场](AAAA) |  
 
 Tech (sort by considered)  
 
@@ -53,8 +56,8 @@ Others
  [！政治](AAAA)
 
 ---
-### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.88 %
-⏰ ***Your Time is Mine***, Updated on Mon, 22 Jan 2024 12:28:55 GMT
+### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.90 %
+⏰ ***Your Time is Mine***, Updated on Mon, 22 Jan 2024 14:05:41 GMT
 
 ---
 
