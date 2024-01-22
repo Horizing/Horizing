@@ -32,7 +32,7 @@ const readme = `\
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
 ---
 ### 📚Small Books written by me 施工中WIP
-|**💠[Type-Moon @My view](AAAA)** | [烹饪](AAAA) | [二手市场](AAAA) | [！政治](AAAA)|     
+|**💠[Type-Moon @My view](AAAA)** | [魔法使いの夜](AAAA) | [空の境界](AAAA) |[烹饪](AAAA) | [二手市场](AAAA) | [！政治](AAAA)|  
 Tech (sort by considered)  
 
 <details>
