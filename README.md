@@ -3,7 +3,7 @@
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/><br/>
 ***Take the Courage, Initiative and Awareness to Assume [Responsibility](AAAA).*** **[society](AAAA), [family](AAAA), [etc](AAAA).**   
 🤝Credit is productivity.🤔Creativity is positive status-quo negation?—**[📅My Work TimeLine](AAAA)**  
-🎭Don't be too rational to enjoy things like art in [culture](AAAA), just feel it.—***[My love for 魔法使いの夜](AAAA)***   
+🎭Don't be too rational to enjoy things like art in [culture](AAAA), just feel it.—***[My view for Type-Moon](AAAA)***   
 👻Life and education need humor and entertainment too.—***[Why is humor important and bulids it](AAAA)***  
 💬Infer by essence and information gap to face the confusion and anxiety.—***[Reading Habits Myth](AAAA)***  
 ❤️The things you chain yourself to, are the things that set you free.—***[Will ask for forgiveness](AAAA)***  
@@ -46,8 +46,8 @@ Others
 </details>
 
 ---
-### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.69 %
-⏰ ***Your Time is Mine***, Updated on Sun, 21 Jan 2024 19:25:46 GMT
+### ⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.75 %
+⏰ ***Your Time is Mine***, Updated on Mon, 22 Jan 2024 01:08:33 GMT
 
 ---
 
