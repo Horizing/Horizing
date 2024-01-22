@@ -33,7 +33,7 @@ const readme = `\
 ---
 ### 📚Small Books written by me 施工中WIP
 **Creative Work Talk-聊聊创作**  
-| 从解读开始 |  
+| 从他人作品解读开始 |  
 
 **Reviews**(In no particular order LOL)  
 | [境界線上のホライゾン](AAAA)  | 💠[Type-Moon @My view](AAAA), [魔法使いの夜](AAAA), [空の境界](AAAA) | [Others](AAAA) |  
