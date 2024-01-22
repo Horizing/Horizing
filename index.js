@@ -32,8 +32,12 @@ const readme = `\
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
 ---
 ### 📚Small Books written by me 施工中WIP
-| **Reviews** **💠[Type-Moon @My view](AAAA)**, [境界線上のホライゾン](AAAA), [魔法使いの夜](AAAA), [空の境界](AAAA), and [Others](AAAA). |  
-| [烹饪](AAAA) | [二手市场](AAAA) | [！政治](AAAA) |  
+**Reviews**(In no particular order LOL)  
+| [境界線上のホライゾン](AAAA)  | 💠[Type-Moon @My view](AAAA), [魔法使いの夜](AAAA), [空の境界](AAAA) | [Others](AAAA) |  
+
+**Guide**  
+| [烹饪](AAAA) | [二手市场](AAAA) |  
+
 Tech (sort by considered)  
 
 <details>
@@ -61,6 +65,8 @@ Others
 🛡️Guarding the bottom line of everything.<br/>
 🔥Let's do something for our lovely worlds, again and again.
 </details>
+
+ [！政治](AAAA)
 
 ---
 ### ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
