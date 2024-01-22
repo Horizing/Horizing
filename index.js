@@ -23,7 +23,7 @@ const readme = `\
 👻Life and education need humor and entertainment too.—***[Why is humor important and bulids it](AAAA)***  
 💬Infer by essence and information gap to face the confusion and anxiety.—***[Reading Habits Myth](AAAA)***  
 ❤️The things you chain yourself to, are the things that set you free.—***[Will ask for forgiveness](AAAA)***  
-🌎Even if only malicious voices remain, don't ignore kind people.—***[How can we keep kindness](AAAA)***  
+🌎Even if only malicious voices remain, don't ignore kind people.—***[How can we preserve kindness](AAAA)***  
 🕯️Time flies so fast, we will meet again.💞Intimate to others.—***[How and Why 亲密关系事纷说](AAAA)***  
 <br/><br/>
 ***“Life will offer you a diminishing number of opportunities to show how smart you are, ”***  
