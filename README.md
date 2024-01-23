@@ -1,6 +1,6 @@
 # ⚗️ Learning is for The *[Courage](AAAA)* With Others.
 ### 🌱 Hi, Lost lambs 😈<br/><br/>👁️The Self of us will one day be strong enough to influence others.<br/>Can Human Control That?👿
-<img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/><br/>
+<img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/>
 <details>
   <summary>WIP</summary>
   
