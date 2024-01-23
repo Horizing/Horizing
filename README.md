@@ -1,9 +1,9 @@
 # ⚗️ Learning is for The *[Courage](AAAA)* With Others.
-##### 🌱 Hi, Lost lambs 😈<br/>
+### 😈Hi, Lost lambs <br/>
 <details>
   <summary>控制好自己对他人的影响力</summary>
   
-控制好自己对他人的影响力
+暂留
 </details><br/>
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/>
 <details>
@@ -27,7 +27,8 @@
 <details>
   <summary>📚Click</summary>
   <br/><br/><br/>
-  
+
+
 **Cognition-认知**  
 | 从「游戏」聊起的认知概念以及遗忘的意义 | 认知新事物的上限拓宽与下限保证 | ***[遗忘](AAAA)*** | [人民的朴素认知](AAAA)   
 | 充分必要条件与逻辑 | 逻辑「反推」的难点与条件全貌的还原 | 完全正确的数据与错误结论|  
