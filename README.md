@@ -23,6 +23,7 @@
 </details>
 <br/>
 
+🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
 ---
 ### 📚Books/Texts written by me 施工中WIP
 <details>
@@ -85,7 +86,6 @@
 </details>
 </details>
 
-🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
 ---
 ### If I want to have an easy job forever🐟, then most of us must have an easy job forever🐟.<br>我深知自己想永远工作轻松🐟那大多数人都得永远工作轻松🐟
 ---
