@@ -7,7 +7,7 @@
 </details><br/>
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/>
 <details>
-  <summary>WIP</summary>
+  <summary>💬WIP</summary>
   
 ***Take the Courage, Initiative and Awareness to Assume [Responsibility](AAAA).*** **[society](AAAA), [family](AAAA), [etc](AAAA).**   
 🤝Credit is productivity.🤔Creativity is positive status-quo negation?—**[📅My Work TimeLine](AAAA)**  
