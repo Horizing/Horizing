@@ -31,15 +31,19 @@ const readme = `\
 
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
 ---
-### 📚Small Books written by me 施工中WIP
+### 📚Books/Texts written by me 施工中WIP
 **Cognition-认知**  
-| 从**游戏**聊起的认知概念以及遗忘的意义 | 遗忘的多样性 | 时间与体感的老化 | 高估与低估所处时代进程 |  
-| 政经哲预科知识/通识 |  
-| 微观经济学 | 宏观经济学 | 哲学 |  
+| 从**游戏**聊起的认知概念以及遗忘的意义 | 认知新事物的上限拓宽与下限保证 | ***[遗忘](AAAA)*** | [人民的朴素认知](AAAA)   
+| 充分必要条件与逻辑 | 逻辑反推的难点与条件全貌的还原 | 完全正确的数据与错误结论|  
+| 见证社会生活的挣扎 | 时间与体感的老化 | 高估与低估所处时代进程 |  
+| 史政经哲预科知识/通识 |  
+| 变得冷漠沉默或幽默 | 历史以及逻辑细节 | 微观经济学 | 宏观经济学 | 哲学 | 认知自我 | 撕碎自己才能解读他人 |  
 
-**Creative Work Talk-聊聊创作**  
+**Creative Work Talk-聊聊创作/教学**  
 | 从解读他人作品开始 |  
-| 角色塑造 | 如何尽可能代入想象笔下角色 | 需要艺术处理导致难以带入想象的角色|
+| 教学/教学的制作 | 难与初学者再共情？ | 补救以及如何记住自己初学时的心态 |  
+| 角色塑造 | 如何尽可能代入想象笔下角色 | 需要艺术处理导致难以带入想象的角色 |  
+| 留白的必要性、重要性、意义与难点等等 | 是否留白的**纠结心态**与克服|  
 
 **Reviews**  
 || [文学书评](AAAA) || [Galgame](AAAA) ||  
@@ -78,8 +82,6 @@ const readme = `\
 🛡️Guarding the bottom line of everything.<br/>
 🔥Let's do something for our lovely worlds, again and again.
 </details>
-
- [！政治](AAAA)
 
 ---
 ### ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
