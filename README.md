@@ -21,7 +21,6 @@
 ***“Life will offer you a diminishing number of opportunities to show how smart you are, ”***  
 ***“But it will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”***  
 </details>
-<br/>
 
 ### 📚Books/Texts written by me 施工中WIP
 <details>
