@@ -95,7 +95,7 @@ const 删掉readme删掉 = `\
 ---
 
 ## Something Need and Deserve a Lifetime to Practice<br>有些事需要并值得终生实践
-![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
+![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\删掉
 `
 
 console.lo删掉g(readme)
