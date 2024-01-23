@@ -1,6 +1,9 @@
 # ⚗️ Learning is for The *[Courage](AAAA)* With Others.
 ### 🌱 Hi, Lost lambs 😈<br/><br/>👁️The Self of us will one day be strong enough to influence others.<br/>Can Human Control That?👿
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/><br/>
+<details>
+  <summary>WIP</summary>
+  
 ***Take the Courage, Initiative and Awareness to Assume [Responsibility](AAAA).*** **[society](AAAA), [family](AAAA), [etc](AAAA).**   
 🤝Credit is productivity.🤔Creativity is positive status-quo negation?—**[📅My Work TimeLine](AAAA)**  
 🎭Don't be too rational to enjoy things like art in [culture](AAAA), just feel it.—**[💠Culture Myth](AAAA)**   
@@ -12,11 +15,14 @@
 <br/><br/>
 ***“Life will offer you a diminishing number of opportunities to show how smart you are, ”***  
 ***“But it will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”***  
+</details>
 
 🎮[Steam](https://steamcommunity.com/profiles/76561198179920187) 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
 ---
 ### 📚Books/Texts written by me 施工中WIP
-
+<details>
+  <summary>WIP</summary>
+  
 **Cognition-认知**  
 | 从「游戏」聊起的认知概念以及遗忘的意义 | 认知新事物的上限拓宽与下限保证 | ***[遗忘](AAAA)*** | [人民的朴素认知](AAAA)   
 | 充分必要条件与逻辑 | 逻辑「反推」的难点与条件全貌的还原 | 完全正确的数据与错误结论|  
@@ -70,6 +76,7 @@
 🍃Anger is easy, but same to forget.<br/>
 🛡️Guarding the bottom line of everything.<br/>
 🔥Let's do something for our lovely worlds, again and again.
+</details>
 </details>
 
 ---
