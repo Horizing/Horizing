@@ -1,5 +1,10 @@
 # ⚗️ Learning is for The *[Courage](AAAA)* With Others.
-### 🌱 Hi, Lost lambs 😈<br/><br/>👁️The Self of us will one day be strong enough to influence others.<br/>Can Human Control That?👿
+##### 🌱 Hi, Lost lambs 😈<br/>
+<details>
+  <summary>控制好自己对他人的影响力</summary>
+  
+控制好自己对他人的影响力
+</details>
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/>
 <details>
   <summary>WIP</summary>
@@ -87,5 +92,5 @@
 
 ---
 
-## Something Need and Deserve a Lifetime to Practice<br>有些事需要并值得终生实践
+### If I want to have an easy job forever🐟, then most of us must have an easy job forever🐟.<br>我深知自己想永远工作轻松🐟那大多数人都得永远工作轻松🐟
 ![Progress Bar CI By liununu](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
