@@ -87,5 +87,5 @@
 </details>
 
 ---
-### If I want to have an easy job forever🐟, then most of us must have an easy job forever🐟.<br>我深知自己想永远工作轻松🐟那大多数人都得永远工作轻松🐟
+Talk is cheap, Show me the ____.
 ---
