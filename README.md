@@ -27,7 +27,7 @@
 ---
 ### 📚Books/Texts written by me 施工中WIP
 <details>
-  <summary>WIP</summary>
+  <summary>📚Click</summary>
   <br/>
   
 **Cognition-认知**  
