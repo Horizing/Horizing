@@ -23,12 +23,10 @@
 </details>
 <br/>
 
-🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
----
 ### 📚Books/Texts written by me 施工中WIP
 <details>
   <summary>📚Click</summary>
-  <br/>
+  <br/><br/>
   
 **Cognition-认知**  
 | 从「游戏」聊起的认知概念以及遗忘的意义 | 认知新事物的上限拓宽与下限保证 | ***[遗忘](AAAA)*** | [人民的朴素认知](AAAA)   
@@ -85,7 +83,9 @@
 🔥Let's do something for our lovely worlds, again and again.
 </details>
 </details>
+<br/>
 
 ---
 ### Talk is cheap, Show me the ____.
 ---
+🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
