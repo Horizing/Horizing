@@ -83,9 +83,9 @@
 🔥Let's do something for our lovely worlds, again and again.
 </details>
 </details>
-<br/>
+
+🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
 
 ---
 ### Talk is cheap, Show me the ____.
 ---
-🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
