@@ -1,5 +1,5 @@
 # ⚗️ Learning is for The *[Courage](AAAA)* With Others.
-### 😈Hi, Lost lambs <br/>
+#### 😈Hi, Lost lambs <br/>
 <details>
   <summary>控制好自己对他人的影响力</summary>
   
