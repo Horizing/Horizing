@@ -4,7 +4,7 @@
   <summary>控制好自己对他人的影响力</summary>
   
 控制好自己对他人的影响力
-</details>
+</details><br/>
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/>
 <details>
   <summary>WIP</summary>
