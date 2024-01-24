@@ -102,3 +102,4 @@
 ### Talk is cheap, Show me the ____.
 ##### 但别错把 *[交流能力](AAAA)* 废弃了。 But don’t abandon your *[communication skills](AAAA)* wrongly.
 ---
+*My Proud Works*: [Humor](XXXX)
