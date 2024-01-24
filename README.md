@@ -7,7 +7,7 @@
 「房间里的大象」
 </details>
 <details>
-  <summary>Control my influence to others</summary>
+  <summary>Control my influence to others well</summary>
   
   [My limitations](AAAA), Limitations of language, Staged limitations of others  
 「Elephant in the room」
