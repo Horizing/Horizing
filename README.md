@@ -3,13 +3,14 @@
 <details>
   <summary>控制好自己对他人的影响力</summary>
   
-暂留
+[我的局限性](AAAA) 语言的局限性 他人理解能力的阶段性局限  
+「房间里的大象」
 </details><br/>
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/>
 <details>
-  <summary>💬WIP</summary>
+  <summary>💬Click</summary>
   
-***Take the Courage, Initiative and Awareness to Assume [Responsibility](AAAA).*** **[society](AAAA), [family](AAAA), [etc](AAAA).**   
+***[My limitations](AAAA); Courage, Initiative and Awareness to Assume [Responsibility](AAAA).*** **[society](AAAA), [family](AAAA), [etc](AAAA).**   
 🤝Credit is productivity.🤔Creativity is positive status-quo negation?—**[📅My Work TimeLine](AAAA)**  
 🎭Don't be too rational to enjoy things like art in [culture](AAAA), just feel it.—**[💠Culture Myth](AAAA)**   
 👻Life and education need humor and entertainment too.—***[Why is humor important and bulids it](AAAA)***  
@@ -28,12 +29,14 @@
   <summary>📚Click</summary>
   <br/><br/><br/>
   
-！和纯粹技术不同，没人能告诉我这些的思考是否具有**意义**  
-！包括技术衍生的管理学等等部分
-！其中部分问题不愿意、不想、甚至害怕、恐惧去思考这些问题是正常的
-！请**带着怀疑**阅读我的拙作，不要**人云亦云**或**全盘否定**    
+！和纯粹技术不同，没人能告诉我这些的思考是否具有**意义**-请阅读 **[我的局限性](AAAA)**  
+！包括技术衍生的管理学等等部分  
+！其中部分问题不愿意、不想、甚至害怕、恐惧去思考这些问题是正常的  
+！请**带着怀疑**阅读我的拙作，不要**人云亦云**或**全盘否定** 
 
-**如何实践得出与验证以下各版块内容-我的看法**
+⚠️正式开始前确保阅读本 README 开头的 **控制好自己对他人的影响力**⚠️   
+
+**如何实践得出与验证以下各版块内容-我的做法**
 
 **Cognition-认知**  
 | 从「游戏」聊起的认知概念以及遗忘的意义 | 认知新事物的上限拓宽与下限保证 | ***[遗忘](AAAA)*** | [人民的朴素认知](AAAA)   
