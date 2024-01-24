@@ -109,3 +109,4 @@
 ##### But Necessary Skill: *[Communication](AAAA)*, Teaching, Presentation, Speech to influence other people.
 ---
 *My Most Proud Works*: **[Humor](https://github.com/VoluntieTsai/Humor)**
+*Special*: Enthusiasm, Creativity.
