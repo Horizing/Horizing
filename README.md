@@ -100,6 +100,6 @@
 
 ---
 ### Talk is cheap, Show me the ____.
-##### 但别错把 *[交流能力](AAAA)* 废弃了。 But don’t abandon your *[communication skills](AAAA)* wrongly.
+##### But Necessary Skill: *[Communication](AAAA)*, Teaching, Presentation, Speech to influence other people.
 ---
 *My Most Proud Works*: **[Humor](https://github.com/VoluntieTsai/Humor)**
