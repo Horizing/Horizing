@@ -1,17 +1,17 @@
 # ⚗️ Learning is for The *[Courage](AAAA)* With Others.
 ### 😈Hi, Lost lambs <br/>
 <details>
-  <summary>控制好自己对他人的影响力</summary>
-  
-[我的局限性](AAAA) 语言的局限性 他人理解能力的阶段性局限  
-「房间里的大象」
-</details>
-<details>
   <summary>Control my influence to others well</summary>
   
   [My limitations](AAAA), Limitations of language, Staged limitations of others  
 「Elephant in the room」
-  </details><br/>
+  </details>
+  <details>
+  <summary>控制好自己对他人的影响力</summary>
+  
+[我的局限性](AAAA) 语言的局限性 他人理解能力的阶段性局限  
+「房间里的大象」
+</details><br/>
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/>
 <details>
   <summary>💬Click</summary>
