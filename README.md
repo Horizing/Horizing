@@ -100,5 +100,5 @@
 
 ---
 ### Talk is cheap, Show me the ____.
-##### 但别错把交流能力废弃了。 But don’t abandon your communication skills wrongly.
+##### 但别错把 *[交流能力](AAAA)* 废弃了。 But don’t abandon your *[communication skills](AAAA)* wrongly.
 ---
