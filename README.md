@@ -11,7 +11,7 @@
   
   [My limitations](AAAA), Limitations of language, Staged limitations of others  
 「Elephant in the room」
-  </details>
+  </details><br/>
 <img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/>
 <details>
   <summary>💬Click</summary>
