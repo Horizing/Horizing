@@ -27,6 +27,9 @@
 <details>
   <summary>📚Click</summary>
   <br/><br/><br/>
+  
+！和纯粹技术不同，没人能告诉我这些的思考是否具有**意义**  
+！所以请**带着怀疑**阅读我的拙作，不要**人云亦云**或**全盘否定**    
 
 **如何实践得出与验证以下各版块内容-我的看法**
 
@@ -90,4 +93,5 @@
 
 ---
 ### Talk is cheap, Show me the ____.
+##### 但别把交流能力完全废弃了。 But don’t completely abandon your communication skills.
 ---
