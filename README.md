@@ -108,5 +108,5 @@
 ### Talk is cheap, Show me the ____.
 ##### But Necessary Skill: *[Communication](AAAA)*, Teaching, Presentation, Speech to influence other people.
 ---
-*My Most Proud Works*: **[Humor](https://github.com/VoluntieTsai/Humor)** **[Self](https://github.com/VoluntieTsai/Humor)** **[Future Consensus](https://github.com/VoluntieTsai/Humor)**  
+*My Most Proud Works*: **[Humor](https://github.com/VoluntieTsai/Humor)** **[Self](https://github.com/VoluntieTsai/Humor)** **[Charm](https://github.com/VoluntieTsai/Humor)** **[Future Consensus](https://github.com/VoluntieTsai/Humor)**  
 *Special*: **[Entertainment](https://github.com/VoluntieTsai/Humor)** **[Elephant in the room](https://github.com/VoluntieTsai/Humor)**, Enthusiasm, Creativity,
