@@ -4,7 +4,7 @@
   <summary>Control my influence to others well</summary>
   
   [My limitations](AAAA), Limitations of language, Staged limitations of others  
-「Elephant in the room」
+「Elephant in the room」myth
   </details>
   <details>
   <summary>控制好自己对他人的影响力</summary>
@@ -109,4 +109,4 @@
 ##### But Necessary Skill: *[Communication](AAAA)*, Teaching, Presentation, Speech to influence other people.
 ---
 *My Most Proud Works*: **[Humor](https://github.com/VoluntieTsai/Humor)** **[Future Consensus](https://github.com/VoluntieTsai/Humor)**  
-*Special*: Enthusiasm, Creativity.
+*Special*: **[Elephant in the room](https://github.com/VoluntieTsai/Humor)**, Enthusiasm, Creativity,
