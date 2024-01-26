@@ -105,7 +105,7 @@
 ##### 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
 
 ---
-### Information Guide: Source, Verify, Quality-Value, Using, Learning, Collection, Exchange.-Updating<br/>Only Talk is cheap, Show me the ____.
+### Information Guide: Source, Verify, Quality-Value, Using, Learning, Collection, Exchange.-My Research<br/>Only Talk is cheap, Show me the ____.
 ##### But Necessary Skill: *[Communication](AAAA)*, Teaching, Presentation, Speech to influence other people.
 ---
 *My Most Proud Works*: **[Humor](https://github.com/VoluntieTsai/Humor)** **[Information](https://github.com/VoluntieTsai/Humor)** **[Self](https://github.com/VoluntieTsai/Humor)** **[Charm](https://github.com/VoluntieTsai/Humor)** **[Future Consensus](https://github.com/VoluntieTsai/Humor)**  
