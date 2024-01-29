@@ -105,7 +105,7 @@
 ##### 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
 
 ---
-### Information *[Asymmetry](AAAA)* and *[Cocoons](AAAA)*.-[MyResearch](AAAA)<br/> -*[Information Guide](AAAA): [Source](AAAA), [Verify](AAAA), Quality-Value, Using, Learning, Collection, Exchange, Cycle.*-MyResearch<br/>Aesthetics [Appreciation](AAAA)<br/>-[Aesthetics Guide](AAAA): *Importance, Develop, Source Material Collection Guide.*<br/>Softwares all I [Using](AAAA)/[Used](AAAA)<br/><br/>- *[Simple](https://github.com/VoluntieTsai/Humor)* or *[Ignorant](AAAA)*, a flash of thought. <br/>- Only Talk is cheap, Show me the ____.
+### Information *[Asymmetry](AAAA)* and *[Cocoons](AAAA)*.-[MyResearch](AAAA)<br/> -*[Information Guide](AAAA): [Source](AAAA), [Verify](AAAA), Quality-Value, Using, Learning, Collection, Exchange, Cycle.*-MyResearch<br/><br/>Courage: *[Not blindly](AAAA)* <br/>-*Courage*<br/><br/>Aesthetics [Appreciation](AAAA)<br/>-[Aesthetics Guide](AAAA): *Importance, Develop, Source Material Collection Guide.*<br/><br/>Softwares all I [Using](AAAA)/[Used](AAAA)<br/><br/>-- *[Simple](https://github.com/VoluntieTsai/Humor)* or *[Ignorant](AAAA)*, a flash of thought. <br/>-- Only Talk is cheap, Show me the ____.
 ##### But Necessary Skill: *[Communication](AAAA)*, Teaching, Presentation, Speech to influence other people.
 ---
 *My Most Proud Works*: **[Humor](https://github.com/VoluntieTsai/Humor)** **[Information Guide](https://github.com/VoluntieTsai/Humor)** **[Self](https://github.com/VoluntieTsai/Humor)** **[Charm](https://github.com/VoluntieTsai/Humor)** **[Future Consensus](https://github.com/VoluntieTsai/Humor)**  
