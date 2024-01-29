@@ -41,11 +41,11 @@
 ！请**带着怀疑**阅读我的拙作，不要**人云亦云**或**全盘否定** 
 
 ⚠️正式开始前确保阅读本 README 开头的 **控制好自己对他人的影响力**⚠️   
-⚠️以及后半部的Information、Courage、Aesthetics等等几个部分⚠️
+⚠️以及后半部的Chaos and Paths的几个部分⚠️
 
 **如何*实践*得出与*验证*以下各版块内容-我的做法**
 
-**Cognition-认知——Courage:面对破碎灰色残缺的真相**  
+**Cognition-认知——Courage:面对困惑与未知的痛苦**  
 | 从「游戏」聊起的认知概念以及遗忘的意义 | 认知新事物的上限拓宽与下限保证 | ***[遗忘](AAAA)*** | [人民的朴素认知](AAAA)   
 | 充分必要条件与逻辑 | 「逻辑反推」的难点与条件全貌的还原 | 完全正确的数据与错误结论|  
 | 史政经哲预科知识/通识 |  
@@ -106,6 +106,10 @@
 ##### 🗒️[Blog](XXXX) 🏠[Home](https://steamcommunity.com/profiles/76561198179920187) More🌿[Linktree](https://linktr.ee/) 
 
 ---
+**Chaos and Paths**  
+
+-⏰Update | ❓Confusion
+
 ### Information *[Asymmetry](AAAA)* and *[Cocoons](AAAA)*.<br/> -*[Information Guide](AAAA): [Source](AAAA), [Verify](AAAA), Quality-Value, Using, Learning, Collection, Exchange, Cycle.*<br/>-MyResearch<br/><br/>Courage: *[Not blindly](AAAA)* <br/>-*Courage*<br/><br/>Aesthetics [Appreciation](AAAA)<br/>-[Aesthetics Guide](AAAA): *Importance, Develop, Source Material Collection Guide.*<br/><br/>Softwares all I [Using](AAAA)/[Used](AAAA)<br/><br/>-- *[Simple](https://github.com/VoluntieTsai/Humor)* or *[Ignorant](AAAA)*, a flash of thought. <br/>-- Only Talk is cheap, Show me the ____.
 ##### But Necessary Skill: *[Communication](AAAA)*, Teaching, Presentation, Speech to influence other people.
 ---
