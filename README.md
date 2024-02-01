@@ -11,8 +11,7 @@
   
 [我的局限性](AAAA) 语言的局限性 他人理解能力的阶段性局限  
 「房间里的大象」
-</details><br/>
-<img align="left" src="https://github.com/VoluntieTsai/VoluntieTsai/blob/main/Elias.png" height="225" width="auto" ><br/>
+</details>
 <details>
   <summary>💬Click</summary>
   
@@ -28,7 +27,8 @@
 ***“Life will offer you a diminishing number of opportunities to show how smart you are, ”***  
 ***“But it will offer an infinite number of occasions that require kindness, mercy, grace, sensitivity, sympathy, generosity and love.”***  
 </details>
-<br/>
+
+---
 
 ### 📚Books/Texts written by me 施工中WIP
 <details>
