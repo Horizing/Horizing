@@ -5,4 +5,4 @@
 - “问题是**炽烈的热情**和**冷静的分寸感**﹐怎样才能在同一个人身上调和起来？”
 - "For the problem is simply how can warm passion and a cool sense of proportion be forged together in one and the same soul?"  
 ***—— Maximilian Karl Emil Weber***  
-- My ["dennoch"](a)-“尽管如此”
+- My ["dennoch"](a)-“尽管，即使如此”
