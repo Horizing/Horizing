@@ -6,5 +6,5 @@
 - "For the problem is simply how can ***[warm passion](a)*** and a ***[cool sense of proportion](a)*** be forged together in one and the same soul?"  
 ***—— Maximilian Karl Emil Weber***  
 - **My [Experience](a)** and **["Dennoch"](a)**-“尽管，即使如此”-"nevertheless"
-- **With [Humor](a), [Imagination-Analogy](a), [Simple-Easy-Stupid-Concise-…](a), [Rights-Obligation](a), [Learning-Teaching](a)**
-- **Changing The World: [Reality-Virtual](a), [Past-Now-Future](a)**
+- **With [Humor](a), [Insight](a), [Imagination-Analogy](a), [Simple-Easy-Stupid-Concise-…](a), [Empathy](a), [Rights-Obligation](a), [Reality-Virtual](a), [Courage](a), [Choose-Effort](a),, [Management](a) [Learning-Teaching](a), ...More Working In Progress..., Finally: [Creativity](a)** 
+- ——*Sort By Nothing.*
